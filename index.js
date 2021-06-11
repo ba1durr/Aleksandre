@@ -3,8 +3,8 @@ const statsDiv = document.getElementById("stats");
 const startGameBtn = document.getElementById("start-game");
 
 const pharagraphs = [
-  `The oldest classical Greek and Latin writing had little or no space between words and could be written in boustrophedon (alternating directions).`,
-  `The Rocker is a 2008 American comedy film directed by Peter Cattaneo and written by Maya Forbes and Wallace Wolodarsky, from a story by Ryan Jaffe. The film stars Rainn Wilson as a failed musician who goes on tour with his nephew's band after one of their songs goes viral. Christina Applegate, Jeff Garlin, Josh Gad, Teddy Geiger and Emma Stone also star. It was released on August 20, 2008, received mixed reviews and was a box office bomb, grossing just $8 million against its $15 million budget.`,
+  `"The quick brown fox jumps over the lazy dog" is an English-language pangram.`,
+  `- Envy of other people shows how they are unhappy. Their continual attention to others behavior shows how they are boring. - Seneca`,
 ];
 
 const startGame = () => {
